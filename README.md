@@ -5,3 +5,5 @@ PUNTO 1 DEL ENUNCIADO (Diagrama de Clases). Las justificaciones de diseño se en
 
 
 ![Cuidandonos  diagrama de clases  Punto 1](https://github.com/GabrielBorre/Cuidandonos.-Practica_Entregable-DDS/assets/83511268/89945cce-a00c-4ef1-85ba-7dc4eceb361f)
+
+PUNTO 2 DEL ENUNCIADO (Diagrama de Clases). La implementación en código se encuentra en la carpeta "Cuidandonos" del repositorio. 
